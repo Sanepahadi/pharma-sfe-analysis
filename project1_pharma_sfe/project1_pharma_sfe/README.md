@@ -1,6 +1,6 @@
 # 📊 Pharma Sales Force Effectiveness Analysis
 
-> **End-to-end analytics project simulating a real ZS Associates consulting engagement** — territory performance benchmarking, rep segmentation, and XGBoost sales forecasting across 50 reps, 5 drug categories, and 2 years of data.
+> **End-to-end pharma analytics project covering territory performance benchmarking, rep segmentation, and XGBoost sales forecasting across 50 reps, 5 drug categories, and 2 years of data.**
 
 ---
 
